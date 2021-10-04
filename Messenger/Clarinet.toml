@@ -1,6 +1,0 @@
-[project]
-name = "Messenger"
-requirements = []
-[contracts.Messenger]
-path = "contracts/Messenger.clar"
-depends_on = []
